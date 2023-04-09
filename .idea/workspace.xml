@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c61df574-844d-4eda-b254-c41c1037f2fe" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c61df574-844d-4eda-b254-c41c1037f2fe" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +50,11 @@
 }</component>
   <component name="RunManager" selected="应用程序.CaptchaGenerator">
     <configuration name="CaptchaGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhr.CaptchaGenerator.CaptchaGenerator" />
+      <option name="MAIN_CLASS_NAME" value="com.bbqpure.CaptchaGenerator.CaptchaGenerator" />
       <module name="kaptchaGenerator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhr.CaptchaGenerator.*" />
+          <option name="PATTERN" value="com.bbqpure.CaptchaGenerator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +105,7 @@
       <updated>1681032153791</updated>
       <workItem from="1681032154830" duration="3406000" />
       <workItem from="1681038033840" duration="432000" />
+      <workItem from="1681038479524" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="Kaptcha-demo">
       <created>1681038453183</created>
@@ -115,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681038453183</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Kaptcha-demo">
+      <created>1681038489404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681038489404</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Kaptcha-demo">
+      <created>1681038645323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681038645323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
