@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c61df574-844d-4eda-b254-c41c1037f2fe" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/5gxe.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/7b65.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/7cen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/c3fb.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/d7bx.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/efy2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/fw7c.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/mcn2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/mn42.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imageOut/y45n.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zhr/CaptchaGenerator/KaptchaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,8 +106,16 @@
       <option name="presentableId" value="Default" />
       <updated>1681032153791</updated>
       <workItem from="1681032154830" duration="3406000" />
-      <workItem from="1681038033840" duration="394000" />
+      <workItem from="1681038033840" duration="432000" />
     </task>
+    <task id="LOCAL-00001" summary="Kaptcha-demo">
+      <created>1681038453183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681038453183</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,5 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Kaptcha-demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kaptcha-demo" />
   </component>
 </project>
